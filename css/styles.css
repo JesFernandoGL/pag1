@@ -11,6 +11,7 @@
 
 .backimg{
     height: 90vh;
+    background-image: url('../inet1.jpg');
     background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
